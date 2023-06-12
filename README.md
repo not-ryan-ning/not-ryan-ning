@@ -1,6 +1,6 @@
 # Hey, I'm Ryan! 👋🏻
 
-### I like to code and go bouldering. 
+### I like coding and bouldering. 
 
 If you know me, I've tried to introduce you to climbing at least once.
 
