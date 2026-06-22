@@ -1,10 +1,9 @@
 # Hey, I'm Ryan! 👋🏻
 
-### I like coding and bouldering. 
+I'm currently a software engineering intern @ **Uber** in SF, where I'm working on improving location accuracy.
 
-If you know me, I've tried to introduce you to climbing at least once.
+Next, I will be interning @ **Amazon** in Seattle on DynamoDB team (learning about load balancers!). 
 
-- 🤖 I'm experienced in **`Python`**, **`Java`**, and **`Full-Stack Development`**. 
-- 🌱 I'm currently learning [Genetic Algorithms](https://github.com/not-ryan-ning/Genetic-Algorithms.git), **Software Design**, and **Data Structures and Analysis**.
-- ✨ I'm currently working on [Sphere](https://github.com/not-ryan-ning/Sphere.git) and **V4-5** problems. 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ryan-ning/)!
+Previously, I was at **Shopify** on the Subscriptions (Selling Strategies) team under Shopify's core engineering org. 
+
+You can reach me at my [Linkedin](linkedin.com/in/ryan-ning) or on my X/Twitter [@itsnotryan](x.com/itsnotryan). 
