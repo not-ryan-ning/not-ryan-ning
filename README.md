@@ -1,6 +1,6 @@
 # Hey, I'm Ryan! 👋🏻
 
-I'm currently a software engineering intern @ **Uber** in SF, where I'm working on improving location accuracy.
+I'm currently a software engineering intern @ **Uber** in SF, where I'm improving first-load location accuracy.
 
 Next, I will be interning @ **Amazon** in Seattle on DynamoDB team (learning about load balancers!). 
 
