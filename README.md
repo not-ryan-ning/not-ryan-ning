@@ -6,4 +6,4 @@ Next, I will be interning @ **Amazon** in Seattle on DynamoDB team (learning abo
 
 Previously, I was @ **Shopify** on the Subscriptions (Selling Strategies) team under Shopify's core engineering org. 
 
-You can reach me at my [Linkedin](linkedin.com/in/ryan-ning) or on my X/Twitter [@itsnotryan](x.com/itsnotryan). 
+You can reach me at my [Linkedin](https://www.linkedin.com/in/ryan-ning) or on my X/Twitter [@itsnotryan](https://www.x.com/itsnotryan). 
